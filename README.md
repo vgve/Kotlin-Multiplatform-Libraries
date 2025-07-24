@@ -1814,7 +1814,6 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-android]
 ![badge][badge-ios]
 ![badge][badge-js]
-![badge][badge-jvm]
 ![badge][badge-mac]
 ![badge][badge-windows]
 ![badge][badge-wasm]
